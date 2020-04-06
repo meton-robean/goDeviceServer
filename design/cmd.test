@@ -1,0 +1,29 @@
+curl "http://127.0.0.1:9876/v1/add-room-info?roomnu=111&rname=room111&appid=88236f6aa303fb212da966f5fe275b7c&token=aaa"
+curl "http://127.0.0.1:9876/v1/del-room-info?roomnu=111&appid=88236f6aa303fb212da966f5fe275b7c&token=aaa"
+
+curl "http://127.0.0.1:9876/v1/get-room-info?username=hotel1&token=aaa"
+
+curl "http://127.0.0.1:9876/v1/open-door?roomnu=111&appid=88236f6aa303fb212da966f5fe275b7c&method=1&requestid=11111&token=aaa"
+curl "http://127.0.0.1:9876/v1/setting-card-password?appid=88236f6aa303fb212da966f5fe275b7c&roomnu=111&keyvalue=aaaa&keytype=1&expire-date=15254542&requestid=111111&token=aaa"
+curl "http://127.0.0.1:9876/v1/cancel-card-password?appid=88236f6aa303fb212da966f5fe275b7c&roomnu=111&keyvalue=aaaa&keytype=1&expire-date=15254542&requestid=111111&token=aaa"
+curl "http://127.0.0.1:9876/v1/get-room-info?username=hotel1&token=aaa"
+curl "http://127.0.0.1:9876/v1/get-room-info?username=hotel1&token=aaa"
+
+
+
+curl -H "Content-Type:application/json" -X POST --data '{"appid":"88236f6aa303fb212da966f5fe275b7c","token":"aaa","data":[{"rname":"NewName1","roomnu":"NewRoom1"},{"rname":"NewName3","roomnu":"NewRoom2"}]}' http://127.0.0.1:9876/v1/sync-room-info
+
+
+HTTP-JSON-BOCHIOT11111{"cmd":"gw_register","swm_gateway_info":{"gw_mac": "123456","gw_ip_addr": "192.168.0.104"}}
+HTTP-JSON-BOCHIOT11111{"cmd":"dev_single_password_setting","gw_mac":"123456","requestid": "11111","device_info": {"ekey_value": "11","ekey_type": 0,"device_mac": "AAAAAAAAAAAA","statuscode":0}}
+HTTP-JSON-BOCHIOT11111{"cmd":"openlock_record_return","gw_mac":"123456","requestid":"bbb","device_mac":"1234567890","openlock_cardnumber":"aa","ekey_type":0,"openlock_status":"","openlock_time": ""}
+HTTP-JSON-BOCHIOT11111{"cmd":"dev_single_password_cancel","gw_mac":"123456","requestid": "11111","device_info": {"ekey_value": "11","ekey_type": 0,"device_mac": "AAAAAAAAAAAA","statuscode":0}}
+
+
+curl "http://127.0.0.1:22347/v1/open-door?roomnu=1024&appid=ae4c06c7488637b5aac6e87f782846eb&method=1&requestid=11111&token=aaa"
+curl "http://127.0.0.1:22347/v1/setting-card-password?appid=ae4c06c7488637b5aac6e87f782846eb&roomnu=1024&keyvalue=aaaa&keytype=1&expire-date=15254542&requestid=111111&token=aaa"
+curl "http://127.0.0.1:22347/v1/cancel-card-password?appid=ae4c06c7488637b5aac6e87f782846eb&roomnu=1024&keyvalue=aaaa&keytype=1&expire-date=15254542&requestid=111111&token=aaa"
+curl "http://127.0.0.1:22347/v1/get-room-info?username=hotel1&token=aaa"
+curl "http://127.0.0.1:22347/v1/get-room-info?username=hotel1&token=aaa"
+
+HTTP-JSON-BOCHIOT11111{"cmd": "d2s_status","requestid": "","gw_mac":"192.168.0.104","device_info": {"device_mac":"0000","switchStatus":0},"statuscode ": 0}

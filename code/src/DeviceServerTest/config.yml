@@ -1,0 +1,8 @@
+LogFile: ./log/control.log
+LogLevel: DEBUG
+
+
+QrcodeServiceAddr: 127.0.0.1:9090 
+
+DeviceID: "12345678"
+

@@ -1,0 +1,179 @@
+{"time":"2017-09-01 19:53:53","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 19:53:53","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 19:53:53","level":"info","scanID":"none","msg":"添加新任务:3","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:53:53","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:53:53","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:53:54","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:53:54","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:371"}
+{"time":"2017-09-01 19:53:54","level":"error","scanID":"none","msg":"read obj error:open 12345678.obj: no such file or directory,modalPath:12345678.obj","filename":"TaskInterfaceClient.go:376"}
+{"time":"2017-09-01 19:53:54","level":"error","scanID":"none","msg":"err:open 12345678.obj: no such file or directory","filename":"TaskRequest.go:112"}
+{"time":"2017-09-01 19:53:54","level":"debug","scanID":"none","msg":"当前的任务:3","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:53:55","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:53:55","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:371"}
+{"time":"2017-09-01 19:53:55","level":"error","scanID":"none","msg":"read obj error:open 12345678.obj: no such file or directory,modalPath:12345678.obj","filename":"TaskInterfaceClient.go:376"}
+{"time":"2017-09-01 19:53:55","level":"error","scanID":"none","msg":"err:open 12345678.obj: no such file or directory","filename":"TaskRequest.go:112"}
+{"time":"2017-09-01 19:53:55","level":"debug","scanID":"none","msg":"当前的任务:3","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:53:56","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}
+{"time":"2017-09-01 19:56:28","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 19:56:28","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 19:56:28","level":"info","scanID":"none","msg":"添加新任务:3","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:56:28","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:56:28","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:56:29","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:56:29","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:371"}
+{"time":"2017-09-01 19:56:29","level":"debug","scanID":"none","msg":"BeginTimerCheckNet","filename":"NetWorkStatus.go:69"}
+{"time":"2017-09-01 19:56:29","level":"info","scanID":"none","msg":"TaskServer,开始上传体态模型文件: 50f2f19c-8f8a-11e7-8db0-000c29414fd8","filename":"TaskInterfaceClient.go:393"}
+{"time":"2017-09-01 19:56:34","level":"info","scanID":"none","msg":"TaskServer上传体态模型成功,scanId=50f2f19c-8f8a-11e7-8db0-000c29414fd8","filename":"TaskInterfaceClient.go:154"}
+{"time":"2017-09-01 19:56:34","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:50f2f19c-8f8a-11e7-8db0-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 19:56:34","level":"info","scanID":"none","msg":"TaskServer,上传体态模型文件成功: 50f2f19c-8f8a-11e7-8db0-000c29414fd8","filename":"TaskInterfaceClient.go:402"}
+{"time":"2017-09-01 19:56:34","level":"debug","scanID":"none","msg":"EndTimerCheckNet","filename":"NetWorkStatus.go:88"}
+{"time":"2017-09-01 19:56:34","level":"debug","scanID":"none","msg":"当前的任务:2","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:56:35","level":"info","scanID":"none","msg":"use callType:0","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:56:35","level":"error","scanID":"none","msg":"开始上传身体数据任务","filename":"TaskInterfaceClient.go:345"}
+{"time":"2017-09-01 19:56:35","level":"info","scanID":"none","msg":"TaskServer上传身体数据成功,scanId=50f2f19c-8f8a-11e7-8db0-000c29414fd8","filename":"TaskInterfaceClient.go:145"}
+{"time":"2017-09-01 19:56:35","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:50f2f19c-8f8a-11e7-8db0-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 19:56:35","level":"debug","scanID":"none","msg":"当前的任务:1","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:56:36","level":"info","scanID":"none","msg":"use callType:4","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:56:36","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:50f2f19c-8f8a-11e7-8db0-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 19:56:39","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}
+{"time":"2017-09-01 19:57:39","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 19:57:39","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 19:57:39","level":"info","scanID":"none","msg":"添加新任务:3","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:57:39","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:57:39","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:57:40","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:57:40","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 19:57:40","level":"error","scanID":"none","msg":"read obj error:open 12345678.obj: no such file or directory,modalPath:12345678.obj","filename":"TaskInterfaceClient.go:377"}
+{"time":"2017-09-01 19:57:40","level":"error","scanID":"none","msg":"err:open 12345678.obj: no such file or directory","filename":"TaskRequest.go:112"}
+{"time":"2017-09-01 19:57:40","level":"debug","scanID":"none","msg":"当前的任务:3","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:57:41","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:57:41","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 19:57:41","level":"error","scanID":"none","msg":"read obj error:open 12345678.obj: no such file or directory,modalPath:12345678.obj","filename":"TaskInterfaceClient.go:377"}
+{"time":"2017-09-01 19:57:41","level":"error","scanID":"none","msg":"err:open 12345678.obj: no such file or directory","filename":"TaskRequest.go:112"}
+{"time":"2017-09-01 19:57:41","level":"debug","scanID":"none","msg":"当前的任务:3","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:57:42","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:57:42","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 19:57:42","level":"error","scanID":"none","msg":"read obj error:open 12345678.obj: no such file or directory,modalPath:12345678.obj","filename":"TaskInterfaceClient.go:377"}
+{"time":"2017-09-01 19:57:42","level":"error","scanID":"none","msg":"err:open 12345678.obj: no such file or directory","filename":"TaskRequest.go:112"}
+{"time":"2017-09-01 19:57:42","level":"debug","scanID":"none","msg":"当前的任务:3","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:57:43","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:57:43","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 19:57:43","level":"error","scanID":"none","msg":"read obj error:open 12345678.obj: no such file or directory,modalPath:12345678.obj","filename":"TaskInterfaceClient.go:377"}
+{"time":"2017-09-01 19:57:43","level":"error","scanID":"none","msg":"err:open 12345678.obj: no such file or directory","filename":"TaskRequest.go:112"}
+{"time":"2017-09-01 19:57:43","level":"debug","scanID":"none","msg":"当前的任务:3","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:57:43","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}
+{"time":"2017-09-01 19:58:13","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 19:58:13","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 19:58:13","level":"info","scanID":"none","msg":"添加新任务:3","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:58:13","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:58:13","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 19:58:14","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:58:14","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 19:58:14","level":"debug","scanID":"none","msg":"BeginTimerCheckNet","filename":"NetWorkStatus.go:69"}
+{"time":"2017-09-01 19:58:14","level":"info","scanID":"none","msg":"TaskServer,开始上传体态模型文件: 8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:394"}
+{"time":"2017-09-01 19:58:19","level":"info","scanID":"none","msg":"TaskServer上传体态模型成功,scanId=8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:154"}
+{"time":"2017-09-01 19:58:19","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 19:58:19","level":"info","scanID":"none","msg":"TaskServer,上传体态模型文件成功: 8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:403"}
+{"time":"2017-09-01 19:58:19","level":"debug","scanID":"none","msg":"EndTimerCheckNet","filename":"NetWorkStatus.go:88"}
+{"time":"2017-09-01 19:58:19","level":"debug","scanID":"none","msg":"当前的任务:2","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:58:20","level":"info","scanID":"none","msg":"use callType:0","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:58:20","level":"error","scanID":"none","msg":"开始上传身体数据任务","filename":"TaskInterfaceClient.go:346"}
+{"time":"2017-09-01 19:58:20","level":"info","scanID":"none","msg":"TaskServer上传身体数据成功,scanId=8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:145"}
+{"time":"2017-09-01 19:58:20","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 19:58:20","level":"debug","scanID":"none","msg":"当前的任务:1","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 19:58:21","level":"info","scanID":"none","msg":"use callType:4","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 19:58:21","level":"info","scanID":"none","msg":"TaskServer请求合成成功,scanId=8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:171"}
+{"time":"2017-09-01 19:58:21","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:8f612049-8f8a-11e7-a774-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 19:58:41","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}
+{"time":"2017-09-01 20:01:29","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 20:01:29","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 20:01:29","level":"info","scanID":"none","msg":"添加新任务:3","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:01:29","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:01:29","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:01:30","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:01:30","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 20:01:30","level":"debug","scanID":"none","msg":"BeginTimerCheckNet","filename":"NetWorkStatus.go:69"}
+{"time":"2017-09-01 20:01:30","level":"info","scanID":"none","msg":"TaskServer,开始上传体态模型文件: 045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:394"}
+{"time":"2017-09-01 20:01:35","level":"info","scanID":"none","msg":"TaskServer上传体态模型成功,scanId=045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:154"}
+{"time":"2017-09-01 20:01:35","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:01:35","level":"info","scanID":"none","msg":"TaskServer,上传体态模型文件成功: 045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:403"}
+{"time":"2017-09-01 20:01:35","level":"debug","scanID":"none","msg":"EndTimerCheckNet","filename":"NetWorkStatus.go:88"}
+{"time":"2017-09-01 20:01:35","level":"debug","scanID":"none","msg":"当前的任务:2","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:01:36","level":"info","scanID":"none","msg":"use callType:0","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:01:36","level":"error","scanID":"none","msg":"开始上传身体数据任务","filename":"TaskInterfaceClient.go:346"}
+{"time":"2017-09-01 20:01:36","level":"info","scanID":"none","msg":"TaskServer上传身体数据成功,scanId=045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:145"}
+{"time":"2017-09-01 20:01:36","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:01:36","level":"debug","scanID":"none","msg":"当前的任务:1","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:01:37","level":"info","scanID":"none","msg":"use callType:4","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:01:37","level":"info","scanID":"none","msg":"TaskServer请求合成成功,scanId=045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:171"}
+{"time":"2017-09-01 20:01:37","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:045c883b-8f8b-11e7-97ef-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:01:39","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}
+{"time":"2017-09-01 20:02:37","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 20:02:37","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 20:02:37","level":"info","scanID":"none","msg":"添加新任务:3","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:02:37","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:02:37","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:02:38","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:02:38","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 20:02:38","level":"debug","scanID":"none","msg":"BeginTimerCheckNet","filename":"NetWorkStatus.go:69"}
+{"time":"2017-09-01 20:02:38","level":"info","scanID":"none","msg":"TaskServer,开始上传体态模型文件: 2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:394"}
+{"time":"2017-09-01 20:02:43","level":"info","scanID":"none","msg":"TaskServer上传体态模型成功,scanId=2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:154"}
+{"time":"2017-09-01 20:02:43","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:02:43","level":"info","scanID":"none","msg":"TaskServer,上传体态模型文件成功: 2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:403"}
+{"time":"2017-09-01 20:02:43","level":"debug","scanID":"none","msg":"EndTimerCheckNet","filename":"NetWorkStatus.go:88"}
+{"time":"2017-09-01 20:02:43","level":"debug","scanID":"none","msg":"当前的任务:2","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:02:44","level":"info","scanID":"none","msg":"use callType:0","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:02:44","level":"error","scanID":"none","msg":"开始上传身体数据任务","filename":"TaskInterfaceClient.go:346"}
+{"time":"2017-09-01 20:02:44","level":"info","scanID":"none","msg":"TaskServer上传身体数据成功,scanId=2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:145"}
+{"time":"2017-09-01 20:02:44","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:02:44","level":"debug","scanID":"none","msg":"当前的任务:1","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:02:45","level":"info","scanID":"none","msg":"use callType:4","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:02:45","level":"info","scanID":"none","msg":"TaskServer请求合成成功,scanId=2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:171"}
+{"time":"2017-09-01 20:02:45","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:2d1d4b78-8f8b-11e7-968c-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:02:51","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}
+{"time":"2017-09-01 20:05:45","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 20:05:45","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 20:05:46","level":"info","scanID":"none","msg":"添加新任务:3","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:05:46","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:05:46","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:05:46","level":"info","scanID":"none","msg":"use callType:3","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:05:46","level":"error","scanID":"none","msg":"开始上传体态模型任务","filename":"TaskInterfaceClient.go:372"}
+{"time":"2017-09-01 20:05:47","level":"debug","scanID":"none","msg":"BeginTimerCheckNet","filename":"NetWorkStatus.go:69"}
+{"time":"2017-09-01 20:05:47","level":"info","scanID":"none","msg":"TaskServer,开始上传体态模型文件: jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:394"}
+{"time":"2017-09-01 20:05:55","level":"info","scanID":"none","msg":"TaskServer上传体态模型成功,scanId=jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:154"}
+{"time":"2017-09-01 20:05:55","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:05:55","level":"info","scanID":"none","msg":"TaskServer,上传体态模型文件成功: jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:403"}
+{"time":"2017-09-01 20:05:55","level":"debug","scanID":"none","msg":"EndTimerCheckNet","filename":"NetWorkStatus.go:88"}
+{"time":"2017-09-01 20:05:55","level":"debug","scanID":"none","msg":"当前的任务:2","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:05:56","level":"info","scanID":"none","msg":"use callType:0","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:05:56","level":"error","scanID":"none","msg":"开始上传身体数据任务","filename":"TaskInterfaceClient.go:346"}
+{"time":"2017-09-01 20:05:56","level":"info","scanID":"none","msg":"TaskServer上传身体数据成功,scanId=jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:145"}
+{"time":"2017-09-01 20:05:56","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:05:56","level":"debug","scanID":"none","msg":"当前的任务:1","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:05:57","level":"info","scanID":"none","msg":"use callType:4","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:05:57","level":"info","scanID":"none","msg":"TaskServer请求合成成功,scanId=jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:171"}
+{"time":"2017-09-01 20:05:57","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:jkingTest-9d4806d9-8f8b-11e7-91a7-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:06:02","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}
+{"time":"2017-09-01 20:06:48","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:85"}
+{"time":"2017-09-01 20:06:48","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:86"}
+{"time":"2017-09-01 20:06:48","level":"info","scanID":"none","msg":"添加新任务:1","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:06:48","level":"info","scanID":"none","msg":"添加新任务:0","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:06:48","level":"info","scanID":"none","msg":"添加新任务:4","filename":"TaskRequest.go:73"}
+{"time":"2017-09-01 20:06:49","level":"info","scanID":"none","msg":"use callType:1","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:06:49","level":"error","scanID":"none","msg":"开始上传模型任务","filename":"TaskInterfaceClient.go:303"}
+{"time":"2017-09-01 20:06:49","level":"debug","scanID":"none","msg":"BeginTimerCheckNet","filename":"NetWorkStatus.go:69"}
+{"time":"2017-09-01 20:06:49","level":"info","scanID":"none","msg":"TaskServer,开始上传模型文件: jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:326"}
+{"time":"2017-09-01 20:06:54","level":"info","scanID":"none","msg":"TaskServer上传模型文件成功,flag:cb89c6ca-8f8b-11e7-a4dc-fa163ef0fc96scanId=jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:132"}
+{"time":"2017-09-01 20:06:54","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:06:54","level":"info","scanID":"none","msg":"TaskServer,上传模型文件成功: jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:333"}
+{"time":"2017-09-01 20:06:54","level":"debug","scanID":"none","msg":"EndTimerCheckNet","filename":"NetWorkStatus.go:88"}
+{"time":"2017-09-01 20:06:54","level":"debug","scanID":"none","msg":"当前的任务:2","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:06:55","level":"info","scanID":"none","msg":"use callType:0","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:06:55","level":"error","scanID":"none","msg":"开始上传身体数据任务","filename":"TaskInterfaceClient.go:346"}
+{"time":"2017-09-01 20:06:55","level":"info","scanID":"none","msg":"TaskServer上传身体数据成功,scanId=jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:145"}
+{"time":"2017-09-01 20:06:55","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:06:55","level":"debug","scanID":"none","msg":"当前的任务:1","filename":"TaskRequest.go:121"}
+{"time":"2017-09-01 20:06:56","level":"info","scanID":"none","msg":"use callType:4","filename":"TaskRequest.go:105"}
+{"time":"2017-09-01 20:06:56","level":"info","scanID":"none","msg":"TaskServer请求合成成功,scanId=jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:171"}
+{"time":"2017-09-01 20:06:56","level":"info","scanID":"none","msg":"数据上传响应成功,保存成功:jkingTest-c2c4146e-8f8b-11e7-81bf-000c29414fd8","filename":"TaskInterfaceClient.go:75"}
+{"time":"2017-09-01 20:07:02","level":"info","scanID":"none","msg":"控制服务退出....","filename":"main.go:76"}

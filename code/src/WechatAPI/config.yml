@@ -1,0 +1,13 @@
+LogFile: ./log/WechatAPI.log
+LogLevel: DEBUG
+
+#Database: root:12345678@tcp(127.0.0.1:3306)/outside 
+Database: root:admin123@tcp(127.0.0.1:3306)/outside_help 
+
+RedisAddr: 127.0.0.1:6379
+RedisPwd: 
+RedisTokenNum: 1
+RedisTokenTimeOut: 6000
+#设备的所在连接的服务地址列表 
+RedisServerNum: 2 
+

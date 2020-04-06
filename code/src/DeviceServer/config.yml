@@ -1,0 +1,23 @@
+LogFile: ./log/modelServer.log
+LogLevel: DEBUG
+
+#监听IP地址
+Addr: 127.0.0.1:9090
+
+#数据库配置
+Database: root:admin123@tcp(127.0.0.1:3306)/outside_help
+
+#上报状态的HTTP地址
+ReportHTTPAddr: 127.0.0.1:9876
+#服务端HTTP地址端口号
+HTTPServer: 127.0.0.1:8999
+
+##########################
+RedisAddr: 127.0.0.1:6379
+RedisPwd: 
+RedisTimeOut: 6000 
+#设备的所在连接的服务地址列表 
+RedisServerNum: 2 
+#####################
+
+EmailPythonPath: /mnt/hgfs/suanier/dysms_python/demo_sms_send.py

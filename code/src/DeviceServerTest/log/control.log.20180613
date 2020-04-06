@@ -1,0 +1,107 @@
+{"time":"2017-09-13 18:34:09","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:84"}
+{"time":"2017-09-13 18:34:09","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:85"}
+{"time":"2017-09-13 18:34:09","level":"info","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"添加新任务:5","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:34:09","level":"info","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"添加新任务:1","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:34:09","level":"info","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"添加新任务:0","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:34:09","level":"info","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"添加新任务:4","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:34:10","level":"info","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:34:13","level":"error","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"err:未响应:JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:34:13","level":"debug","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:34:13","level":"error","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:52740->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:34:14","level":"info","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:34:14","level":"info","scanID":"JkingTest-cdd6e504-98ec-11e7-acd5-000c29414fd8","msg":"控制服务退出....","filename":"main.go:75"}
+{"time":"2017-09-13 18:36:28","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:84"}
+{"time":"2017-09-13 18:36:28","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:85"}
+{"time":"2017-09-13 18:36:28","level":"info","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"添加新任务:5","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:28","level":"info","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"添加新任务:1","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:28","level":"info","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"添加新任务:0","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:28","level":"info","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"添加新任务:4","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:29","level":"info","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:36:32","level":"error","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53104->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:36:32","level":"error","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"err:未响应:JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:36:32","level":"debug","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:36:33","level":"info","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:36:34","level":"info","scanID":"JkingTest-20e63bda-98ed-11e7-83bb-000c29414fd8","msg":"控制服务退出....","filename":"main.go:75"}
+{"time":"2017-09-13 18:36:54","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:84"}
+{"time":"2017-09-13 18:36:54","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:85"}
+{"time":"2017-09-13 18:36:54","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"添加新任务:5","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:54","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"添加新任务:1","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:54","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"添加新任务:0","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:54","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"添加新任务:4","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:36:55","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:36:58","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:36:58","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:36:58","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53172->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:36:59","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:02","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:02","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53182->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:02","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:03","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:06","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:06","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:06","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53193->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:07","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:10","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:10","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:10","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53206->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:11","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:14","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:14","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:14","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53214->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:15","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:18","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:18","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:18","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53228->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:19","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:22","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:22","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:22","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53240->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:23","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:26","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53250->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:26","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:26","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:27","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:30","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:30","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:30","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53262->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:31","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:34","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:34","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:34","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53270->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:35","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:38","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53283->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:38","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:38","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:39","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:42","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"err:未响应:JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","filename":"TaskRequest.go:114"}
+{"time":"2017-09-13 18:37:42","level":"debug","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"当前的任务:4","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:42","level":"error","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"TaskServer接收失败: read tcp 192.168.2.230:53288->117.48.206.53:12348: use of closed network connection","filename":"TaskInterfaceClient.go:98"}
+{"time":"2017-09-13 18:37:43","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:45","level":"info","scanID":"JkingTest-3050112b-98ed-11e7-bacc-000c29414fd8","msg":"控制服务退出....","filename":"main.go:75"}
+{"time":"2017-09-13 18:37:55","level":"info","scanID":"none","msg":"###########版本:1.0.9","filename":"main.go:84"}
+{"time":"2017-09-13 18:37:55","level":"info","scanID":"none","msg":"控制服务开始启动....","filename":"main.go:85"}
+{"time":"2017-09-13 18:37:55","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"添加新任务:5","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:37:55","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"添加新任务:1","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:37:55","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"添加新任务:0","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:37:55","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"添加新任务:4","filename":"TaskRequest.go:75"}
+{"time":"2017-09-13 18:37:56","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"use callType:5","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:56","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"数据上传响应成功,保存成功:JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:78"}
+{"time":"2017-09-13 18:37:56","level":"debug","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"当前的任务:3","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:37:57","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"use callType:1","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:37:57","level":"error","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"开始上传模型任务","filename":"TaskInterfaceClient.go:322"}
+{"time":"2017-09-13 18:37:57","level":"debug","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"BeginTimerCheckNet","filename":"NetWorkStatus.go:69"}
+{"time":"2017-09-13 18:37:57","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"TaskServer,开始上传模型文件: JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:345"}
+{"time":"2017-09-13 18:38:02","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"TaskServer上传模型文件成功,flag:5871873d-98ed-11e7-a372-fa163ef0fc96scanId=JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:137"}
+{"time":"2017-09-13 18:38:02","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"数据上传响应成功,保存成功:JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:78"}
+{"time":"2017-09-13 18:38:02","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"TaskServer,上传模型文件成功: JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:353"}
+{"time":"2017-09-13 18:38:02","level":"debug","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"EndTimerCheckNet","filename":"NetWorkStatus.go:88"}
+{"time":"2017-09-13 18:38:02","level":"debug","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"当前的任务:2","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:38:03","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"use callType:0","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:38:03","level":"error","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"开始上传身体数据任务","filename":"TaskInterfaceClient.go:366"}
+{"time":"2017-09-13 18:38:03","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"TaskServer上传身体数据成功,scanId=JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:150"}
+{"time":"2017-09-13 18:38:03","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"数据上传响应成功,保存成功:JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:78"}
+{"time":"2017-09-13 18:38:03","level":"debug","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"当前的任务:1","filename":"TaskRequest.go:123"}
+{"time":"2017-09-13 18:38:04","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"use callType:4","filename":"TaskRequest.go:107"}
+{"time":"2017-09-13 18:38:04","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"TaskServer请求合成成功,scanId=JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:176"}
+{"time":"2017-09-13 18:38:04","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"数据上传响应成功,保存成功:JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","filename":"TaskInterfaceClient.go:78"}
+{"time":"2017-09-13 18:38:07","level":"info","scanID":"JkingTest-54c1d78b-98ed-11e7-bf71-000c29414fd8","msg":"控制服务退出....","filename":"main.go:75"}
