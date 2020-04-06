@@ -9,8 +9,10 @@ Golang-based Device-Server
 本微服务在项目中的位置:  
 ```
 java后台 <-------------> **goDeviceServer** <-----> 物联网网关集群设备 <----> 大量物联网终端设备
-                |
-网站webserver----
+                 |   |
+网站webserver ----    |
+                     |
+手机微信端/测试APP端 ---
 
 ```
 
